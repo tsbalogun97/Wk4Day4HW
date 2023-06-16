@@ -1,0 +1,45 @@
+
+body {
+  border: solid black;
+}
+
+.navContainer {
+  border: solid red;
+  background-color: #09507c;
+  color: white;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  font-family: Arial;
+}
+
+.applyBttn {
+  background-color: #fec14f;
+  height: 40px;
+  width: 120px;
+  font-weight: bold;
+  margin: 0 20px;
+  margin-top: 5px;
+}
+.titleContainer {
+  border: solid blue;
+  background-color: white;
+  height: 190px;
+  display: flex;
+  font-family: Arial;
+  font-weight: solid;
+}
+.searchIcon {
+  height: 30px;
+  width: 30px;
+  border: solid purple;
+  
+}
+/* .imageContainer1 {
+  border: solid black;
+  width: 33%;
+}
+.imageContainer2 {
+  border: solid black;
+  width: 33%;
+} */
